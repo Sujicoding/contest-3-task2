@@ -1,0 +1,19 @@
+.details{
+    background: linear-gradient(0deg, #000000, #000000),
+linear-gradient(0deg, #FF0000, #FF0000);
+
+}
+.details{
+    height: 29px;
+width: 133px;
+left: 55px;
+top: 203px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+}
